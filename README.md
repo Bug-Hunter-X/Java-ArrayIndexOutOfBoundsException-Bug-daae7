@@ -1,0 +1,1 @@
+This repository contains a demonstration of an ArrayIndexOutOfBoundsException in Java and its solution. The bug.java file shows the erroneous code that attempts to access an element outside the valid index range of an array. The bugSolution.java file provides a corrected version that handles the potential exception using a try-catch block.
